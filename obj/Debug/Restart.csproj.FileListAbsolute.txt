@@ -1,0 +1,13 @@
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\bin\Debug\Restart.dll
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\bin\Debug\Restart.pdb
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\bin\Debug\Assembly-CSharp-firstpass.dll
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\bin\Debug\Assembly-CSharp.dll
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\bin\Debug\Rocket.API.dll
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\bin\Debug\Rocket.Core.dll
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\bin\Debug\Rocket.Unturned.dll
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\bin\Debug\UnityEngine.dll
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\obj\Debug\Restart.csprojResolveAssemblyReference.cache
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\obj\Debug\Restart.dll
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\obj\Debug\Restart.pdb
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\obj\Debug\NightFish.Restart.Properties.Resources.resources
+\\alpha\NightFish\Home\Code\Projects\Restart\Restart\obj\Debug\Restart.csproj.GenerateResource.Cache
